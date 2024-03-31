@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<DSM>
+    <Diagnoses>
+        <Diagnosis>
+            <Name>Attention Deficit Hyperactivity Disorder</Name>
+            <Abbreviation>ADHD</Abbreviation>
+            <Page>123</Page>
+            <Code>314.00</Code>
+        </Diagnosis>
+        <Diagnosis>
+            <Name>Obsessive Compulsive Disorder</Name>
+            <Abbreviation>OCD</Abbreviation>
+            <Page>456</Page>
+            <Code>300.3</Code>
+        </Diagnosis>
+        <Diagnosis>
+            <Name>Borderline Personality Disorder</Name>
+            <Abbreviation>BPD</Abbreviation>
+            <Page>789</Page>
+            <Code>301.83</Code>
+        </Diagnosis>
+        <Diagnosis>
+            <Name>Example Disorder</Name>
+            <Abbreviation>ED</Abbreviation>
+            <Page>102</Page>
+            <Code>999.9</Code>
+        </Diagnosis>
+    </Diagnoses>
+</DSM>
